@@ -1,0 +1,22 @@
+{
+  "name": "avataaars-swift",
+  "version": "0.1.0",
+  "summary": "A short description of avataaars-swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Dan Ries/avataaars-swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dan Ries": "daniel.n.ries@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Dan Ries/avataaars-swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "avataaars-swift/Classes/**/*"
+}

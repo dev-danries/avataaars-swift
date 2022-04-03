@@ -1,0 +1,6 @@
+framework module avataaars_swift {
+  umbrella header "avataaars-swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
